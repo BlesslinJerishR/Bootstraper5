@@ -1,3 +1,3 @@
 # Bootstraper5
-Just a Bootstrap website made in minutes.
-#### [ Developer : Jerry ]
+- Just a Bengaluru site made in minutes using Bootstrap.
+#### [ Developer : Blesslin ]
